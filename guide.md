@@ -6,3 +6,4 @@ This guide will help you get started.
 - Create an account
 - View your dashboard
 - Contact support
+
